@@ -6,8 +6,8 @@
 [Clique Aqui](https://youtu.be/S9uPNppGsGo?si=gkFou8unBpQ-o-4a)
 
 :star: *If you want to learn Python with someone who teaches in a simple and straightforward way, I recommend the "Free Python Course" by Professor Gustavo Guanabara, available on YouTube.*
-<img width="899" height="305" alt="Captura de tela 2025-09-12 111621" src="https://github.com/user-attachments/assets/ce01f44b-60cd-4884-bb0a-9cf5f9ecbae7" />
+<img width="899" height="305" alt="Captura de tela 2025-09-12 111621" src="https://github.com/user-attachments/assets/ce01f44b-60cd-4884-bb0a-9cf5f9ecbae7" /> 
 
 :star: *For anyone who feels lost in their studies and wants more clarity about where they are headed, a 'Roadmap' is the solution. A Roadmap provides an overview of all the requirements and stages you need to go through to advance to the next step and even explore other branches of this language if you want to get closer to them in the future.*
 
-<p align="center"> <img width="539" height="798" alt="image" src="https://github.com/user-attachments/assets/4fb9d27c-7835-447c-a6fc-856048b5922f" />
+<p align="center"> <img width="400" alt="image" src="https://github.com/user-attachments/assets/4fb9d27c-7835-447c-a6fc-856048b5922f" />
