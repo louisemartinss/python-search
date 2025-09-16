@@ -14,6 +14,13 @@
 [IDE!](https://www.online-ide.com/)
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2d2ab4bf-d4fa-4552-9d0a-1006385e6d3b" />
 
+>🏁 **_FREE ONLINE COURSES_**
+1. CS50’s Introduction to Programming with Python (Harvard)
+2. Google’s Python Class
+3. Codecademy
+4. LearnPython.org
+5. Linguagem de Programação Python (Bradesco)
+
 
 >🚀 *For anyone who feels **lost** in their studies and wants more clarity about where they are headed, a 'Roadmap' is the solution. A Roadmap provides an overview of all the requirements and stages you need to go through to advance to the next step and even explore other branches of this language if you want to get closer to them in the future.*
 
